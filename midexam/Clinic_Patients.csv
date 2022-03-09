@@ -1,4 +1,4 @@
-﻿Patient_ID,Diastolic_BP ,Systolic_BP,Height,Weight,Age,Gender
+Patient_ID,Diastolic_BP,Systolic_BP,Height,Weight,Age,Gender
 1,110,160,166,89,34,Male
 2,74,145,173,75,40,Female
 3,95,150,209,92,37,Female
