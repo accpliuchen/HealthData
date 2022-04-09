@@ -1,0 +1,776 @@
+provider_id,hospital_ownership,emergency_services,cpcd,pecd,hsbp,readmission,c_diff_compared
+40055,Proprietary,Yes,95,33,1.07,16,Better than the U.S. National Benchmark
+40062,Voluntary non-profit - Private,Yes,46.67,32,1.04,14,Better than the U.S. National Benchmark
+40084,Voluntary non-profit - Private,Yes,46.36,65,0.93,18,Better than the U.S. National Benchmark
+40134,Proprietary,Yes,95.83,83,0.9,16,Better than the U.S. National Benchmark
+50022,Government - State,Yes,71.67,14,1.05,16,Worse than the U.S. National Benchmark
+50024,Voluntary non-profit - Church,Yes,78,21,1.16,16,Better than the U.S. National Benchmark
+50025,Voluntary non-profit - Other,Yes,40,49,0.97,16,Worse than the U.S. National Benchmark
+10001,Government - Hospital District or Authority,Yes,62.5,45,0.97,15,Better than the U.S. National Benchmark
+10005,Government - Hospital District or Authority,Yes,61,83,0.98,16,Better than the U.S. National Benchmark
+10011,Voluntary non-profit - Private,Yes,52.5,37,0.97,15,Worse than the U.S. National Benchmark
+10016,Voluntary non-profit - Church,Yes,88.33,30,1.01,16,Better than the U.S. National Benchmark
+10019,Government - Hospital District or Authority,Yes,77,60,1.06,16,Better than the U.S. National Benchmark
+10021,Government - Hospital District or Authority,Yes,47,39,0.96,16,Better than the U.S. National Benchmark
+10023,Voluntary non-profit - Church,Yes,20.83,47,1.02,16,Better than the U.S. National Benchmark
+10029,Government - Hospital District or Authority,Yes,75.83,69,0.89,15,Better than the U.S. National Benchmark
+10036,Proprietary,Yes,82,48,0.9,16,Better than the U.S. National Benchmark
+10039,Government - Hospital District or Authority,Yes,59.17,50,1.02,15,Better than the U.S. National Benchmark
+10046,Proprietary,Yes,50.83,18,1.02,18,Worse than the U.S. National Benchmark
+10049,Proprietary,Yes,80,61,0.93,17,Better than the U.S. National Benchmark
+10055,Proprietary,Yes,96.67,70,1.01,16,Better than the U.S. National Benchmark
+10078,Government - Local,Yes,58.33,32,0.98,17,Better than the U.S. National Benchmark
+10083,Proprietary,Yes,89,64,1,17,Better than the U.S. National Benchmark
+10085,Government - Hospital District or Authority,Yes,43,63,0.95,15,Better than the U.S. National Benchmark
+10089,Voluntary non-profit - Private,Yes,94,32,0.95,16,Better than the U.S. National Benchmark
+10092,Government - Hospital District or Authority,Yes,62.5,60,0.99,17,Better than the U.S. National Benchmark
+10104,Proprietary,Yes,92.5,70,1.03,15,Better than the U.S. National Benchmark
+10113,Voluntary non-profit - Private,Yes,62.5,62,0.99,17,Better than the U.S. National Benchmark
+10114,Government - Hospital District or Authority,Yes,57,33,1,15,Better than the U.S. National Benchmark
+10131,Proprietary,Yes,60.91,62,0.99,16,Better than the U.S. National Benchmark
+10139,Proprietary,Yes,61.67,48,1.02,17,Better than the U.S. National Benchmark
+10144,Proprietary,Yes,68.33,52,1,17,Better than the U.S. National Benchmark
+10149,Government - Hospital District or Authority,Yes,44,51,1,16,Better than the U.S. National Benchmark
+10157,Government - Hospital District or Authority,Yes,65,23,1.06,15,Better than the U.S. National Benchmark
+20012,Voluntary non-profit - Other,Yes,36.36,64,0.77,15,Better than the U.S. National Benchmark
+30013,Voluntary non-profit - Private,Yes,27.5,23,1,16,Worse than the U.S. National Benchmark
+30014,Proprietary,Yes,45.83,16,0.98,17,Worse than the U.S. National Benchmark
+30016,Voluntary non-profit - Other,Yes,44.55,37,0.92,16,Worse than the U.S. National Benchmark
+30037,Proprietary,Yes,53.64,38,0.99,15,Better than the U.S. National Benchmark
+30038,Proprietary,Yes,60.83,17,1,14,Worse than the U.S. National Benchmark
+30064,Voluntary non-profit - Private,Yes,45.45,24,0.97,17,Worse than the U.S. National Benchmark
+30065,Voluntary non-profit - Private,Yes,55,34,0.98,18,Better than the U.S. National Benchmark
+30069,Proprietary,Yes,35.83,19,0.86,15,Worse than the U.S. National Benchmark
+30083,Proprietary,Yes,84.55,40,1.02,16,Better than the U.S. National Benchmark
+30087,Proprietary,Yes,50,27,1.03,13,Worse than the U.S. National Benchmark
+30089,Government - Hospital District or Authority,Yes,62.5,39,0.99,16,Better than the U.S. National Benchmark
+30092,Voluntary non-profit - Private,Yes,42.5,22,0.97,15,Worse than the U.S. National Benchmark
+30101,Proprietary,Yes,56.36,26,0.93,18,Worse than the U.S. National Benchmark
+30103,Voluntary non-profit - Private,Yes,69.17,85,0.93,14,Worse than the U.S. National Benchmark
+30111,Voluntary non-profit - Private,Yes,31.82,30,0.95,16,Better than the U.S. National Benchmark
+30123,Proprietary,Yes,57,39,0.99,14,Worse than the U.S. National Benchmark
+40004,Government - Local,Yes,55,45,1.03,15,Better than the U.S. National Benchmark
+40007,Voluntary non-profit - Private,Yes,45,34,0.98,16,Better than the U.S. National Benchmark
+40014,Voluntary non-profit - Private,Yes,65.45,34,0.98,17,Better than the U.S. National Benchmark
+40020,Voluntary non-profit - Private,Yes,51.67,44,0.97,16,Better than the U.S. National Benchmark
+40022,Proprietary,Yes,59.17,25,1,16,Better than the U.S. National Benchmark
+50701,Proprietary,Yes,57,26,0.97,17,Better than the U.S. National Benchmark
+50742,Proprietary,Yes,71,47,1.13,18,Worse than the U.S. National Benchmark
+50744,Proprietary,Yes,50.91,37,1.14,17,Better than the U.S. National Benchmark
+50764,Voluntary non-profit - Private,Yes,85.83,35,0.96,16,Better than the U.S. National Benchmark
+60010,Voluntary non-profit - Private,Yes,54.55,61,0.94,15,Worse than the U.S. National Benchmark
+60011,Government - State,Yes,20.91,26,0.92,16,Better than the U.S. National Benchmark
+60015,Voluntary non-profit - Church,Yes,32.5,54,1.02,16,Worse than the U.S. National Benchmark
+60020,Voluntary non-profit - Private,Yes,37.5,38,0.94,14,Better than the U.S. National Benchmark
+60022,Government - Local,Yes,52.5,24,1.03,13,Better than the U.S. National Benchmark
+60024,Government - Hospital District or Authority,Yes,16.67,56,0.96,16,Worse than the U.S. National Benchmark
+60034,Proprietary,Yes,73.33,31,1.02,15,Worse than the U.S. National Benchmark
+60064,Voluntary non-profit - Church,Yes,65,47,0.97,16,Better than the U.S. National Benchmark
+60100,Proprietary,Yes,63.33,34,1.05,15,Worse than the U.S. National Benchmark
+60104,Voluntary non-profit - Church,Yes,70,32,0.97,17,Worse than the U.S. National Benchmark
+70002,Voluntary non-profit - Church,Yes,48.33,35,1.04,16,Worse than the U.S. National Benchmark
+50038,Government - Local,Yes,51.67,44,0.96,16,Better than the U.S. National Benchmark
+50040,Voluntary non-profit - Other,Yes,51,13,0.82,17,Better than the U.S. National Benchmark
+50042,Voluntary non-profit - Church,Yes,61,36,0.87,15,Better than the U.S. National Benchmark
+50054,Government - Hospital District or Authority,Yes,45,19,0.96,16,Worse than the U.S. National Benchmark
+50057,Government - Hospital District or Authority,Yes,50.83,21,0.95,15,Better than the U.S. National Benchmark
+50060,Voluntary non-profit - Private,Yes,40.83,30,0.99,18,Better than the U.S. National Benchmark
+50084,Voluntary non-profit - Church,Yes,65.83,25,1.01,16,Worse than the U.S. National Benchmark
+50091,Voluntary non-profit - Private,Yes,73.33,43,1.01,17,Better than the U.S. National Benchmark
+50103,Voluntary non-profit - Church,Yes,39.17,45,1.04,17,Worse than the U.S. National Benchmark
+50107,Voluntary non-profit - Church,Yes,50,43,0.93,15,Better than the U.S. National Benchmark
+50112,Government - State,Yes,87.27,31,1.02,18,Worse than the U.S. National Benchmark
+50128,Government - Hospital District or Authority,Yes,60,25,1.01,16,Better than the U.S. National Benchmark
+50129,Voluntary non-profit - Private,Yes,55.83,28,1.05,14,Worse than the U.S. National Benchmark
+50133,Voluntary non-profit - Other,Yes,51.67,11,0.89,17,Worse than the U.S. National Benchmark
+50145,Voluntary non-profit - Private,Yes,36.67,63,0.95,13,Better than the U.S. National Benchmark
+50149,Voluntary non-profit - Other,Yes,61,17,0.95,18,Better than the U.S. National Benchmark
+50153,Voluntary non-profit - Church,Yes,56.67,40,1.01,16,Worse than the U.S. National Benchmark
+50179,Voluntary non-profit - Church,Yes,56.67,14,0.98,17,Worse than the U.S. National Benchmark
+50189,Voluntary non-profit - Other,Yes,50,37,0.86,16,Better than the U.S. National Benchmark
+50195,Government - Hospital District or Authority,Yes,49.17,27,0.97,17,Worse than the U.S. National Benchmark
+50224,Voluntary non-profit - Private,Yes,48.33,41,1.02,15,Worse than the U.S. National Benchmark
+50225,Voluntary non-profit - Church,Yes,31,25,0.9,15,Worse than the U.S. National Benchmark
+50228,Government - Local,Yes,62.73,13,0.91,17,Better than the U.S. National Benchmark
+50231,Voluntary non-profit - Private,Yes,78.33,15,1.06,16,Worse than the U.S. National Benchmark
+50235,Voluntary non-profit - Church,Yes,68.33,33,1.04,17,Worse than the U.S. National Benchmark
+50236,Voluntary non-profit - Church,Yes,40,43,1.03,15,Worse than the U.S. National Benchmark
+50238,Voluntary non-profit - Church,Yes,50,24,1.02,16,Worse than the U.S. National Benchmark
+50248,Government - Hospital District or Authority,Yes,10,24,1.01,16,Better than the U.S. National Benchmark
+50262,Government - State,Yes,80.83,53,0.98,18,Worse than the U.S. National Benchmark
+50272,Government - Federal,Yes,65,51,0.92,15,Worse than the U.S. National Benchmark
+50277,Proprietary,Yes,62,44,1.17,15,Better than the U.S. National Benchmark
+50278,Voluntary non-profit - Church,Yes,49.17,34,1.02,17,Worse than the U.S. National Benchmark
+50289,Voluntary non-profit - Church,Yes,29.17,28,1,15,Worse than the U.S. National Benchmark
+50292,Government - Local,Yes,61,10,0.93,17,Better than the U.S. National Benchmark
+50295,Voluntary non-profit - Other,Yes,33,14,1.04,16,Worse than the U.S. National Benchmark
+50336,Voluntary non-profit - Other,Yes,45,25,1.05,15,Worse than the U.S. National Benchmark
+50350,Voluntary non-profit - Private,Yes,50.83,28,1.1,16,Worse than the U.S. National Benchmark
+50367,Voluntary non-profit - Other,Yes,39.17,24,0.98,17,Worse than the U.S. National Benchmark
+50373,Government - Local,Yes,52.5,20,0.96,17,Better than the U.S. National Benchmark
+50378,Proprietary,Yes,16.67,26,1.07,18,Better than the U.S. National Benchmark
+50390,Government - State,Yes,8,8,1.04,16,Worse than the U.S. National Benchmark
+50393,Voluntary non-profit - Private,Yes,37.5,11,1.09,17,Better than the U.S. National Benchmark
+50424,Voluntary non-profit - Private,No,90,63,0.94,15,Worse than the U.S. National Benchmark
+50441,Voluntary non-profit - Private,Yes,66.67,51,0.99,16,Worse than the U.S. National Benchmark
+50454,Voluntary non-profit - Other,Yes,55.83,38,0.98,16,Worse than the U.S. National Benchmark
+50488,Voluntary non-profit - Other,Yes,57,18,1.04,16,Worse than the U.S. National Benchmark
+50502,Voluntary non-profit - Church,Yes,70,43,1.03,16,Worse than the U.S. National Benchmark
+50549,Proprietary,Yes,65.83,23,1,16,Worse than the U.S. National Benchmark
+50573,Proprietary,Yes,77.5,38,0.96,14,Worse than the U.S. National Benchmark
+50575,Government - Hospital District or Authority,Yes,24,31,1.32,16,Better than the U.S. National Benchmark
+50616,Voluntary non-profit - Church,Yes,59,42,1.06,15,Worse than the U.S. National Benchmark
+50625,Voluntary non-profit - Other,Yes,54.17,40,1.04,16,Worse than the U.S. National Benchmark
+50641,Proprietary,Yes,71.25,17,1.05,17,Better than the U.S. National Benchmark
+50663,Proprietary,Yes,55.56,23,1.36,16,Better than the U.S. National Benchmark
+50684,Government - Hospital District or Authority,Yes,52,36,1.03,16,Worse than the U.S. National Benchmark
+100264,Voluntary non-profit - Other,Yes,92.5,17,1.02,17,Worse than the U.S. National Benchmark
+100266,Voluntary non-profit - Other,Yes,83,68,0.99,16,Better than the U.S. National Benchmark
+100284,Proprietary,Yes,84,31,1.08,18,Better than the U.S. National Benchmark
+100288,Proprietary,Yes,34,38,1.11,17,Better than the U.S. National Benchmark
+100289,Proprietary,Yes,60.83,31,0.99,18,Worse than the U.S. National Benchmark
+100290,Voluntary non-profit - Private,Yes,55.45,11,1.01,16,Better than the U.S. National Benchmark
+100292,Voluntary non-profit - Other,Yes,61.82,87,0.98,15,Better than the U.S. National Benchmark
+110007,Government - Hospital District or Authority,Yes,48.33,37,0.97,16,Better than the U.S. National Benchmark
+110024,Voluntary non-profit - Other,Yes,44,23,1.02,15,Worse than the U.S. National Benchmark
+110025,Government - Hospital District or Authority,Yes,74.55,21,0.94,15,Better than the U.S. National Benchmark
+110029,Government - Local,Yes,56.67,53,0.91,15,Better than the U.S. National Benchmark
+110031,Proprietary,Yes,50,22,1.02,16,Better than the U.S. National Benchmark
+110038,Voluntary non-profit - Private,Yes,50,59,0.99,15,Better than the U.S. National Benchmark
+110054,Government - Hospital District or Authority,Yes,54.55,42,0.98,16,Better than the U.S. National Benchmark
+110064,Voluntary non-profit - Other,Yes,48,22,1.04,16,Better than the U.S. National Benchmark
+110074,Voluntary non-profit - Other,Yes,49.17,44,0.94,15,Better than the U.S. National Benchmark
+70011,Voluntary non-profit - Private,Yes,63,37,1.02,15,Worse than the U.S. National Benchmark
+70016,Voluntary non-profit - Other,Yes,79.17,20,1.05,15,Better than the U.S. National Benchmark
+70018,Voluntary non-profit - Private,Yes,33.64,50,0.98,17,Better than the U.S. National Benchmark
+70020,Voluntary non-profit - Private,Yes,51,53,0.99,17,Better than the U.S. National Benchmark
+70022,Voluntary non-profit - Private,Yes,53.33,41,1.03,18,Worse than the U.S. National Benchmark
+70024,Voluntary non-profit - Other,Yes,71,37,1.04,16,Worse than the U.S. National Benchmark
+70025,Voluntary non-profit - Private,Yes,51.67,40,1,16,Worse than the U.S. National Benchmark
+90003,Voluntary non-profit - Other,Yes,47.27,18,0.93,18,Better than the U.S. National Benchmark
+90006,Voluntary non-profit - Private,Yes,31,22,1,18,Better than the U.S. National Benchmark
+90008,Proprietary,Yes,17,7,1.06,17,Better than the U.S. National Benchmark
+100001,Voluntary non-profit - Private,Yes,75,45,1.01,17,Worse than the U.S. National Benchmark
+100002,Voluntary non-profit - Private,Yes,54.17,20,1.12,17,Better than the U.S. National Benchmark
+100006,Voluntary non-profit - Private,Yes,34.17,48,1.02,16,Better than the U.S. National Benchmark
+100014,Voluntary non-profit - Private,Yes,63.64,55,0.97,16,Worse than the U.S. National Benchmark
+100017,Government - Hospital District or Authority,Yes,65.83,44,1.02,16,Better than the U.S. National Benchmark
+100023,Government - Hospital District or Authority,Yes,42.5,14,1.03,14,Better than the U.S. National Benchmark
+100026,Government - Hospital District or Authority,Yes,68.33,27,1.05,15,Better than the U.S. National Benchmark
+100029,Proprietary,Yes,42.5,12,1.14,17,Worse than the U.S. National Benchmark
+100034,Proprietary,Yes,34.17,29,1.09,16,Better than the U.S. National Benchmark
+100038,Government - Hospital District or Authority,Yes,89.17,57,1.05,18,Worse than the U.S. National Benchmark
+100039,Government - Hospital District or Authority,Yes,82.5,17,1.03,16,Better than the U.S. National Benchmark
+100040,Voluntary non-profit - Church,Yes,71.67,34,1.02,18,Worse than the U.S. National Benchmark
+100044,Voluntary non-profit - Private,Yes,22.5,20,1.05,15,Worse than the U.S. National Benchmark
+100076,Proprietary,Yes,88.75,16,1.08,17,Worse than the U.S. National Benchmark
+100080,Proprietary,Yes,96.67,15,1.09,17,Better than the U.S. National Benchmark
+100084,Voluntary non-profit - Private,Yes,35,9,1.01,17,Better than the U.S. National Benchmark
+100086,Government - Hospital District or Authority,Yes,99.09,43,1.04,16,Better than the U.S. National Benchmark
+100088,Voluntary non-profit - Private,Yes,32.5,31,1.09,16,Better than the U.S. National Benchmark
+100090,Voluntary non-profit - Private,Yes,58.33,31,1.03,15,Worse than the U.S. National Benchmark
+100102,Voluntary non-profit - Private,Yes,35.56,10,1.04,17,Better than the U.S. National Benchmark
+100105,Government - Hospital District or Authority,Yes,39.17,20,1.04,14,Better than the U.S. National Benchmark
+100109,Voluntary non-profit - Church,Yes,60.91,45,1.05,16,Better than the U.S. National Benchmark
+100110,Proprietary,Yes,74.17,16,1.05,18,Better than the U.S. National Benchmark
+100125,Voluntary non-profit - Private,Yes,81,78,1.01,16,Better than the U.S. National Benchmark
+100128,Voluntary non-profit - Private,Yes,30.83,41,1.01,17,Better than the U.S. National Benchmark
+100131,Voluntary non-profit - Private,Yes,70.83,25,1.08,19,Better than the U.S. National Benchmark
+100137,Proprietary,Yes,90,10,1.02,17,Better than the U.S. National Benchmark
+100142,Government - Hospital District or Authority,Yes,62,61,1.01,17,Better than the U.S. National Benchmark
+100166,Proprietary,Yes,85.45,38,1.08,14,Better than the U.S. National Benchmark
+100167,Proprietary,Yes,65.83,35,1.08,17,Better than the U.S. National Benchmark
+100175,Voluntary non-profit - Private,Yes,6.67,35,0.96,18,Worse than the U.S. National Benchmark
+100176,Proprietary,Yes,59.17,19,1.05,16,Better than the U.S. National Benchmark
+100187,Proprietary,Yes,67.5,28,1.1,17,Better than the U.S. National Benchmark
+100209,Proprietary,Yes,77.5,26,1.04,17,Better than the U.S. National Benchmark
+100217,Proprietary,Yes,100,25,0.99,16,Better than the U.S. National Benchmark
+100220,Government - Hospital District or Authority,Yes,50.83,33,1.04,17,Worse than the U.S. National Benchmark
+100223,Proprietary,Yes,75.83,24,1.02,15,Better than the U.S. National Benchmark
+100230,Government - Hospital District or Authority,Yes,96,44,0.96,16,Worse than the U.S. National Benchmark
+100236,Proprietary,Yes,90,22,1.05,16,Worse than the U.S. National Benchmark
+100244,Government - Hospital District or Authority,Yes,33,44,1.03,16,Worse than the U.S. National Benchmark
+100246,Proprietary,Yes,95.83,14,1.08,16,Better than the U.S. National Benchmark
+100249,Proprietary,Yes,35,26,1.07,14,Worse than the U.S. National Benchmark
+100253,Voluntary non-profit - Private,Yes,65,22,1.02,16,Better than the U.S. National Benchmark
+100254,Proprietary,Yes,69.17,21,1.09,18,Better than the U.S. National Benchmark
+100258,Proprietary,Yes,82.5,9,1.09,16,Better than the U.S. National Benchmark
+100259,Proprietary,Yes,76,31,1.07,16,Worse than the U.S. National Benchmark
+150021,Voluntary non-profit - Private,Yes,58.33,41,1.01,14,Better than the U.S. National Benchmark
+150024,Government - Local,Yes,66,48,0.94,15,Better than the U.S. National Benchmark
+150026,Voluntary non-profit - Private,Yes,39.09,54,1.02,16,Better than the U.S. National Benchmark
+150034,Voluntary non-profit - Private,Yes,85,50,1.01,18,Worse than the U.S. National Benchmark
+150048,Voluntary non-profit - Private,Yes,71.67,44,1.01,15,Worse than the U.S. National Benchmark
+150056,Voluntary non-profit - Private,Yes,45,35,1.02,17,Worse than the U.S. National Benchmark
+150058,Voluntary non-profit - Private,Yes,68.33,46,0.98,15,Better than the U.S. National Benchmark
+150074,Voluntary non-profit - Private,Yes,48.18,27,1,15,Better than the U.S. National Benchmark
+150084,Voluntary non-profit - Church,Yes,49.17,25,1.04,14,Better than the U.S. National Benchmark
+150090,Voluntary non-profit - Private,Yes,53.33,38,1.08,17,Better than the U.S. National Benchmark
+150097,Government - Local,Yes,72,69,1.01,15,Worse than the U.S. National Benchmark
+150112,Government - Local,Yes,58.33,42,0.96,15,Better than the U.S. National Benchmark
+150115,Voluntary non-profit - Church,Yes,52.73,81,0.95,14,Better than the U.S. National Benchmark
+150125,Voluntary non-profit - Private,Yes,49.17,64,1.05,16,Worse than the U.S. National Benchmark
+150133,Proprietary,Yes,64,42,0.98,17,Better than the U.S. National Benchmark
+150162,Voluntary non-profit - Church,Yes,65,44,1.04,15,Better than the U.S. National Benchmark
+110079,Voluntary non-profit - Other,Yes,50.91,31,0.94,17,Better than the U.S. National Benchmark
+110083,Voluntary non-profit - Private,Yes,40.83,30,0.97,14,Worse than the U.S. National Benchmark
+110089,Government - Hospital District or Authority,Yes,97,76,0.86,18,Better than the U.S. National Benchmark
+110095,Government - Hospital District or Authority,Yes,53.64,33,0.89,16,Better than the U.S. National Benchmark
+110105,Government - Hospital District or Authority,Yes,75,24,0.97,16,Better than the U.S. National Benchmark
+110107,Government - Hospital District or Authority,Yes,51.67,31,1.01,16,Better than the U.S. National Benchmark
+110122,Government - Hospital District or Authority,Yes,50,51,0.95,15,Better than the U.S. National Benchmark
+110125,Proprietary,Yes,90.91,39,0.92,15,Worse than the U.S. National Benchmark
+110129,Voluntary non-profit - Private,Yes,48.33,33,1.01,15,Better than the U.S. National Benchmark
+110164,Voluntary non-profit - Private,Yes,79.17,22,1,18,Better than the U.S. National Benchmark
+110165,Voluntary non-profit - Private,Yes,57.27,10,1.01,15,Better than the U.S. National Benchmark
+110191,Government - Hospital District or Authority,Yes,60,17,0.98,15,Better than the U.S. National Benchmark
+110201,Proprietary,Yes,80,31,1,17,Better than the U.S. National Benchmark
+110215,Voluntary non-profit - Private,Yes,50.91,35,0.93,15,Better than the U.S. National Benchmark
+110226,Government - Hospital District or Authority,Yes,44,25,0.99,16,Worse than the U.S. National Benchmark
+120001,Voluntary non-profit - Private,Yes,71.67,28,0.88,14,Better than the U.S. National Benchmark
+120002,Government - State,Yes,55.83,20,0.87,14,Better than the U.S. National Benchmark
+120011,Voluntary non-profit - Private,Yes,80.83,50,0.84,15,Better than the U.S. National Benchmark
+120026,Proprietary,Yes,58.18,60,0.93,16,Better than the U.S. National Benchmark
+130003,Voluntary non-profit - Private,Yes,46.36,39,0.99,14,Better than the U.S. National Benchmark
+130007,Voluntary non-profit - Church,Yes,67.5,28,0.93,14,Better than the U.S. National Benchmark
+130018,Proprietary,Yes,83.33,19,0.97,14,Better than the U.S. National Benchmark
+140002,Voluntary non-profit - Private,Yes,76,76,0.9,16,Better than the U.S. National Benchmark
+140007,Voluntary non-profit - Church,Yes,71.67,25,1.06,19,Better than the U.S. National Benchmark
+140008,Voluntary non-profit - Private,Yes,73.33,21,1.02,17,Better than the U.S. National Benchmark
+140013,Voluntary non-profit - Private,Yes,41.67,40,0.96,16,Better than the U.S. National Benchmark
+140015,Voluntary non-profit - Private,Yes,56.67,55,0.99,16,Better than the U.S. National Benchmark
+140018,Voluntary non-profit - Private,Yes,65.45,25,1.01,17,Better than the U.S. National Benchmark
+140040,Proprietary,Yes,39,24,1.02,18,Worse than the U.S. National Benchmark
+140046,Voluntary non-profit - Church,Yes,67.5,56,0.97,17,Worse than the U.S. National Benchmark
+140053,Voluntary non-profit - Church,Yes,69.17,27,0.96,16,Better than the U.S. National Benchmark
+140058,Voluntary non-profit - Private,Yes,33,47,0.93,17,Better than the U.S. National Benchmark
+140067,Voluntary non-profit - Church,Yes,70,39,0.97,18,Worse than the U.S. National Benchmark
+140088,Voluntary non-profit - Private,Yes,44.17,16,1.01,17,Worse than the U.S. National Benchmark
+140093,Voluntary non-profit - Church,Yes,64,51,0.97,18,Better than the U.S. National Benchmark
+140095,Voluntary non-profit - Church,Yes,66,29,1.03,17,Better than the U.S. National Benchmark
+140116,Voluntary non-profit - Other,Yes,52.5,42,1.03,16,Better than the U.S. National Benchmark
+140118,Proprietary,Yes,76.67,58,1.03,19,Worse than the U.S. National Benchmark
+140124,Government - Local,Yes,40,19,0.86,18,Better than the U.S. National Benchmark
+140130,Voluntary non-profit - Other,Yes,49,25,0.96,15,Better than the U.S. National Benchmark
+140133,Voluntary non-profit - Private,Yes,50,18,1.11,18,Better than the U.S. National Benchmark
+140135,Voluntary non-profit - Other,Yes,40.83,51,0.95,16,Worse than the U.S. National Benchmark
+140150,Government - State,Yes,49.09,14,0.98,19,Better than the U.S. National Benchmark
+140177,Voluntary non-profit - Private,Yes,51.43,5,1.04,21,Better than the U.S. National Benchmark
+140179,Voluntary non-profit - Church,Yes,73.64,46,1.03,17,Worse than the U.S. National Benchmark
+140180,Voluntary non-profit - Church,Yes,85.83,33,0.99,19,Better than the U.S. National Benchmark
+140181,Voluntary non-profit - Private,Yes,40,16,1.1,18,Worse than the U.S. National Benchmark
+140182,Voluntary non-profit - Church,Yes,74.17,42,1.04,17,Better than the U.S. National Benchmark
+140184,Proprietary,Yes,74.55,26,1,17,Worse than the U.S. National Benchmark
+140186,Voluntary non-profit - Private,Yes,71.67,41,1,15,Better than the U.S. National Benchmark
+140213,Voluntary non-profit - Private,Yes,64.55,47,1.04,18,Better than the U.S. National Benchmark
+140223,Voluntary non-profit - Church,Yes,75.83,58,1.06,16,Better than the U.S. National Benchmark
+140233,Voluntary non-profit - Church,Yes,71.67,39,1.02,16,Worse than the U.S. National Benchmark
+140242,Voluntary non-profit - Private,Yes,55.83,66,1.02,15,Better than the U.S. National Benchmark
+140251,Voluntary non-profit - Private,Yes,80.91,40,1.09,16,Better than the U.S. National Benchmark
+140258,Voluntary non-profit - Church,Yes,65.83,39,1.09,15,Better than the U.S. National Benchmark
+140280,Voluntary non-profit - Other,Yes,60,30,0.99,16,Better than the U.S. National Benchmark
+140290,Voluntary non-profit - Church,Yes,62.73,39,1.12,16,Better than the U.S. National Benchmark
+140292,Voluntary non-profit - Other,Yes,52,39,1.08,16,Better than the U.S. National Benchmark
+150006,Voluntary non-profit - Private,Yes,50.83,54,1,17,Better than the U.S. National Benchmark
+150007,Voluntary non-profit - Private,Yes,37.5,49,1.08,15,Better than the U.S. National Benchmark
+150015,Voluntary non-profit - Church,Yes,88.33,58,1.01,16,Better than the U.S. National Benchmark
+150018,Government - Local,Yes,73.33,41,0.99,15,Better than the U.S. National Benchmark
+190183,Government - State,Yes,86,62,0.91,16,Better than the U.S. National Benchmark
+190202,Voluntary non-profit - Private,Yes,64.17,51,1.07,16,Better than the U.S. National Benchmark
+190250,Proprietary,Yes,60.91,89,0.96,16,Better than the U.S. National Benchmark
+200009,Voluntary non-profit - Private,Yes,79.17,43,1,15,Better than the U.S. National Benchmark
+200020,Voluntary non-profit - Private,Yes,59.09,92,0.99,16,Better than the U.S. National Benchmark
+200021,Voluntary non-profit - Private,Yes,60,59,0.93,16,Better than the U.S. National Benchmark
+200033,Voluntary non-profit - Private,Yes,63.33,26,1.03,16,Better than the U.S. National Benchmark
+200034,Voluntary non-profit - Private,Yes,75,51,0.96,13,Better than the U.S. National Benchmark
+200063,Voluntary non-profit - Private,Yes,52,34,0.9,16,Better than the U.S. National Benchmark
+220010,Voluntary non-profit - Private,Yes,46.36,33,1.08,16,Worse than the U.S. National Benchmark
+220011,Government - Local,Yes,26,29,1.02,16,Worse than the U.S. National Benchmark
+220024,Voluntary non-profit - Private,Yes,49,35,1,16,Better than the U.S. National Benchmark
+220031,Voluntary non-profit - Private,Yes,58.33,20,1,18,Worse than the U.S. National Benchmark
+220066,Voluntary non-profit - Private,Yes,58,33,1.06,15,Worse than the U.S. National Benchmark
+220070,Voluntary non-profit - Private,Yes,51.82,51,1.11,17,Worse than the U.S. National Benchmark
+220073,Proprietary,Yes,31,16,1.03,18,Worse than the U.S. National Benchmark
+160016,Voluntary non-profit - Private,Yes,46.67,68,0.93,15,Better than the U.S. National Benchmark
+160028,Voluntary non-profit - Private,Yes,83.64,44,0.96,16,Better than the U.S. National Benchmark
+160033,Voluntary non-profit - Other,Yes,67.5,34,0.97,14,Better than the U.S. National Benchmark
+160057,Voluntary non-profit - Private,Yes,69.09,41,0.89,15,Better than the U.S. National Benchmark
+160064,Voluntary non-profit - Church,Yes,54.17,33,0.93,16,Better than the U.S. National Benchmark
+160067,Voluntary non-profit - Church,Yes,67.27,48,0.95,15,Better than the U.S. National Benchmark
+170006,Voluntary non-profit - Private,Yes,44,56,0.95,14,Better than the U.S. National Benchmark
+170049,Voluntary non-profit - Private,Yes,48.33,50,1,15,Better than the U.S. National Benchmark
+170086,Voluntary non-profit - Private,Yes,77.5,42,0.99,16,Better than the U.S. National Benchmark
+170122,Voluntary non-profit - Church,Yes,65.83,16,1,15,Worse than the U.S. National Benchmark
+180001,Voluntary non-profit - Private,Yes,64,39,0.95,17,Worse than the U.S. National Benchmark
+180002,Voluntary non-profit - Other,Yes,40,83,0.93,18,Better than the U.S. National Benchmark
+180013,Voluntary non-profit - Private,Yes,31.67,40,1.02,17,Better than the U.S. National Benchmark
+180017,Voluntary non-profit - Other,Yes,58.18,51,0.98,16,Better than the U.S. National Benchmark
+180036,Voluntary non-profit - Private,Yes,30,71,0.92,16,Better than the U.S. National Benchmark
+180038,Voluntary non-profit - Private,Yes,57.5,47,0.95,14,Better than the U.S. National Benchmark
+180044,Voluntary non-profit - Private,Yes,95,83,0.95,17,Worse than the U.S. National Benchmark
+180048,Voluntary non-profit - Other,Yes,55.45,44,0.97,16,Worse than the U.S. National Benchmark
+180050,Voluntary non-profit - Other,Yes,86,33,0.91,20,Better than the U.S. National Benchmark
+180067,Government - State,Yes,77.5,58,1,18,Better than the U.S. National Benchmark
+180070,Voluntary non-profit - Other,Yes,62,62,1,17,Worse than the U.S. National Benchmark
+180130,Voluntary non-profit - Private,Yes,57.5,43,0.99,14,Worse than the U.S. National Benchmark
+180132,Proprietary,Yes,59.17,11,1,17,Better than the U.S. National Benchmark
+190002,Voluntary non-profit - Private,Yes,46.67,90,1.01,17,Better than the U.S. National Benchmark
+190007,Government - Hospital District or Authority,Yes,33,26,1.18,16,Better than the U.S. National Benchmark
+190008,Government - Hospital District or Authority,Yes,68.33,49,0.98,16,Better than the U.S. National Benchmark
+190011,Government - State,Yes,24,34,0.92,17,Better than the U.S. National Benchmark
+190014,Proprietary,No,66,33,1.07,18,Better than the U.S. National Benchmark
+190015,Government - Hospital District or Authority,Yes,27.5,37,1.13,17,Better than the U.S. National Benchmark
+190019,Voluntary non-profit - Church,Yes,45,32,1.04,15,Better than the U.S. National Benchmark
+190020,Government - Hospital District or Authority,Yes,58.18,60,1.05,18,Better than the U.S. National Benchmark
+190026,Voluntary non-profit - Other,Yes,78.33,25,1.06,16,Better than the U.S. National Benchmark
+190027,Voluntary non-profit - Private,Yes,60,27,1.04,16,Better than the U.S. National Benchmark
+190040,Government - Hospital District or Authority,Yes,61.67,36,1.01,16,Better than the U.S. National Benchmark
+190041,Voluntary non-profit - Church,Yes,30.91,36,1.07,15,Better than the U.S. National Benchmark
+190046,Voluntary non-profit - Private,Yes,55,28,1.01,14,Better than the U.S. National Benchmark
+190060,Voluntary non-profit - Private,Yes,32.5,51,0.99,17,Better than the U.S. National Benchmark
+190079,Government - Hospital District or Authority,Yes,43.75,60,1.01,17,Better than the U.S. National Benchmark
+190098,Voluntary non-profit - Private,Yes,42.73,45,0.96,18,Better than the U.S. National Benchmark
+190111,Voluntary non-profit - Private,Yes,28.33,62,1.09,14,Better than the U.S. National Benchmark
+190125,Voluntary non-profit - Private,Yes,71.67,40,1.03,15,Better than the U.S. National Benchmark
+190146,Government - Hospital District or Authority,Yes,46.67,51,0.99,15,Better than the U.S. National Benchmark
+190164,Proprietary,Yes,46,39,1.07,18,Worse than the U.S. National Benchmark
+190167,Proprietary,Yes,33,62,1.11,18,Worse than the U.S. National Benchmark
+260057,Voluntary non-profit - Private,Yes,18,37,0.95,17,Worse than the U.S. National Benchmark
+260061,Government - Local,Yes,42.86,50,0.9,16,Better than the U.S. National Benchmark
+260065,Voluntary non-profit - Church,Yes,75.83,39,0.96,15,Worse than the U.S. National Benchmark
+260091,Voluntary non-profit - Private,Yes,77.5,38,0.98,17,Better than the U.S. National Benchmark
+260096,Government - Local,Yes,60.83,50,0.97,15,Worse than the U.S. National Benchmark
+260105,Proprietary,Yes,65.83,40,1.03,18,Better than the U.S. National Benchmark
+260108,Voluntary non-profit - Private,Yes,78.33,19,0.97,16,Better than the U.S. National Benchmark
+260119,Proprietary,Yes,35,20,0.94,18,Better than the U.S. National Benchmark
+260141,Government - State,Yes,58.33,34,0.97,16,Better than the U.S. National Benchmark
+260179,Voluntary non-profit - Private,Yes,65.83,61,0.96,15,Better than the U.S. National Benchmark
+260210,Proprietary,Yes,29,8,1.09,17,Better than the U.S. National Benchmark
+270003,Voluntary non-profit - Private,Yes,68.18,38,0.86,15,Better than the U.S. National Benchmark
+270004,Voluntary non-profit - Private,Yes,63.33,45,0.94,14,Worse than the U.S. National Benchmark
+270012,Voluntary non-profit - Private,Yes,50,24,0.98,15,Worse than the U.S. National Benchmark
+270049,Voluntary non-profit - Church,Yes,66.67,43,0.94,15,Better than the U.S. National Benchmark
+270051,Voluntary non-profit - Private,Yes,51.67,27,0.93,14,Better than the U.S. National Benchmark
+280003,Voluntary non-profit - Private,Yes,43.33,60,1.02,14,Better than the U.S. National Benchmark
+220088,Voluntary non-profit - Private,No,68.89,71,1.02,13,Better than the U.S. National Benchmark
+220090,Voluntary non-profit - Other,Yes,59,54,1.04,18,Worse than the U.S. National Benchmark
+220111,Proprietary,Yes,46.36,15,1.03,17,Worse than the U.S. National Benchmark
+220135,Voluntary non-profit - Private,Yes,77,43,0.98,15,Worse than the U.S. National Benchmark
+220163,Voluntary non-profit - Private,Yes,42.5,19,1.07,17,Worse than the U.S. National Benchmark
+220176,Proprietary,Yes,61.67,40,1.01,18,Better than the U.S. National Benchmark
+230013,Physician,Yes,45,23,1.05,16,Better than the U.S. National Benchmark
+230019,Voluntary non-profit - Church,Yes,65.83,19,0.97,17,Better than the U.S. National Benchmark
+230020,Proprietary,Yes,25,24,1.04,17,Worse than the U.S. National Benchmark
+230038,Voluntary non-profit - Private,Yes,50,50,0.98,14,Better than the U.S. National Benchmark
+230041,Voluntary non-profit - Other,Yes,41.67,26,1.02,15,Better than the U.S. National Benchmark
+230046,Voluntary non-profit - Private,Yes,69.17,47,0.99,18,Worse than the U.S. National Benchmark
+230054,Government - Local,Yes,55,27,0.99,15,Better than the U.S. National Benchmark
+230070,Voluntary non-profit - Other,Yes,58.33,39,0.98,18,Better than the U.S. National Benchmark
+230072,Voluntary non-profit - Private,Yes,93.64,64,0.91,15,Better than the U.S. National Benchmark
+230080,Voluntary non-profit - Private,Yes,35,26,0.96,16,Better than the U.S. National Benchmark
+230117,Voluntary non-profit - Other,Yes,50,35,0.96,14,Better than the U.S. National Benchmark
+230130,Proprietary,Yes,81.67,24,1.01,18,Worse than the U.S. National Benchmark
+230132,Voluntary non-profit - Other,Yes,20,25,0.99,16,Better than the U.S. National Benchmark
+230141,Voluntary non-profit - Private,Yes,47.5,35,0.97,16,Better than the U.S. National Benchmark
+230165,Voluntary non-profit - Church,Yes,67.5,19,1,19,Better than the U.S. National Benchmark
+230236,Voluntary non-profit - Private,Yes,56.36,62,0.94,15,Better than the U.S. National Benchmark
+230239,Voluntary non-profit - Private,Yes,23,70,0.9,15,Worse than the U.S. National Benchmark
+230259,Voluntary non-profit - Private,Yes,81,85,0.94,15,Better than the U.S. National Benchmark
+240001,Voluntary non-profit - Private,Yes,63.33,26,0.95,15,Worse than the U.S. National Benchmark
+240004,Government - Local,Yes,66.67,23,0.94,16,Better than the U.S. National Benchmark
+240010,Voluntary non-profit - Church,Yes,56.67,63,0.94,16,Better than the U.S. National Benchmark
+240057,Voluntary non-profit - Private,Yes,55,40,0.94,15,Worse than the U.S. National Benchmark
+240063,Voluntary non-profit - Private,Yes,49.17,68,0.93,15,Better than the U.S. National Benchmark
+240078,Voluntary non-profit - Other,Yes,72.5,49,0.98,14,Worse than the U.S. National Benchmark
+240088,Government - Local,Yes,47,58,0.96,16,Better than the U.S. National Benchmark
+240106,Voluntary non-profit - Private,Yes,61.67,30,0.96,16,Better than the U.S. National Benchmark
+240115,Voluntary non-profit - Private,Yes,66.67,46,0.92,16,Worse than the U.S. National Benchmark
+240132,Voluntary non-profit - Other,Yes,81,33,0.93,17,Better than the U.S. National Benchmark
+240214,Voluntary non-profit - Private,Yes,88,46,0.88,16,Better than the U.S. National Benchmark
+250004,Voluntary non-profit - Private,Yes,85.83,76,0.98,16,Better than the U.S. National Benchmark
+250007,Proprietary,Yes,80,22,0.98,18,Better than the U.S. National Benchmark
+250019,Government - Local,Yes,41.67,31,1.02,16,Better than the U.S. National Benchmark
+250031,Proprietary,Yes,79.17,33,1.06,17,Better than the U.S. National Benchmark
+250034,Voluntary non-profit - Private,Yes,71.54,30,0.96,16,Better than the U.S. National Benchmark
+250040,Government - Local,Yes,65,42,0.99,18,Better than the U.S. National Benchmark
+250048,Voluntary non-profit - Church,Yes,39.17,60,0.99,16,Better than the U.S. National Benchmark
+250058,Government - Local,Yes,31,32,0.91,16,Better than the U.S. National Benchmark
+250078,Government - Local,Yes,53.33,41,0.98,17,Better than the U.S. National Benchmark
+250082,Government - Local,Yes,23.64,38,1.04,17,Better than the U.S. National Benchmark
+250094,Voluntary non-profit - Private,Yes,80.83,63,0.99,18,Better than the U.S. National Benchmark
+250097,Government - Local,Yes,14.55,43,0.99,17,Better than the U.S. National Benchmark
+250100,Voluntary non-profit - Private,Yes,82.5,67,0.96,16,Better than the U.S. National Benchmark
+250104,Voluntary non-profit - Private,Yes,44.17,50,0.99,15,Better than the U.S. National Benchmark
+250122,Proprietary,Yes,37,39,1.01,19,Better than the U.S. National Benchmark
+250141,Voluntary non-profit - Private,Yes,71.67,24,0.98,17,Better than the U.S. National Benchmark
+260005,Voluntary non-profit - Private,Yes,67.5,36,1.01,17,Better than the U.S. National Benchmark
+260006,Voluntary non-profit - Private,Yes,80.83,47,0.95,16,Better than the U.S. National Benchmark
+260011,Proprietary,Yes,81.67,42,0.91,17,Better than the U.S. National Benchmark
+260017,Government - Local,Yes,59,40,0.95,14,Better than the U.S. National Benchmark
+330080,Government - Local,Yes,71,10,0.9,19,Better than the U.S. National Benchmark
+330088,Voluntary non-profit - Private,Yes,23.33,41,0.92,15,Better than the U.S. National Benchmark
+330101,Voluntary non-profit - Private,Yes,70,28,0.96,17,Worse than the U.S. National Benchmark
+330102,Voluntary non-profit - Church,Yes,71,29,1,15,Worse than the U.S. National Benchmark
+330104,Voluntary non-profit - Other,Yes,80,17,1.08,18,Worse than the U.S. National Benchmark
+330107,Voluntary non-profit - Private,Yes,22,20,0.99,17,Worse than the U.S. National Benchmark
+330127,Government - Local,Yes,49,10,0.94,18,Better than the U.S. National Benchmark
+330128,Government - Local,Yes,71.82,10,1.01,18,Better than the U.S. National Benchmark
+330140,Voluntary non-profit - Private,Yes,54.17,27,0.95,17,Worse than the U.S. National Benchmark
+330141,Voluntary non-profit - Private,Yes,25,16,1.1,19,Worse than the U.S. National Benchmark
+330151,Voluntary non-profit - Church,Yes,42,42,0.84,15,Better than the U.S. National Benchmark
+330153,Proprietary,Yes,75.83,35,0.97,15,Better than the U.S. National Benchmark
+330162,Voluntary non-profit - Private,Yes,82,50,0.98,17,Better than the U.S. National Benchmark
+330169,Voluntary non-profit - Private,Yes,70.83,19,1.02,20,Better than the U.S. National Benchmark
+330180,Voluntary non-profit - Private,Yes,32.73,17,0.91,16,Better than the U.S. National Benchmark
+330182,Voluntary non-profit - Church,Yes,45,59,1,15,Worse than the U.S. National Benchmark
+330185,Voluntary non-profit - Private,Yes,58,47,1.03,16,Worse than the U.S. National Benchmark
+330193,Voluntary non-profit - Private,Yes,53,3,1.06,19,Better than the U.S. National Benchmark
+330194,Voluntary non-profit - Private,Yes,45.83,16,1,17,Better than the U.S. National Benchmark
+330198,Voluntary non-profit - Private,Yes,79.09,19,1.05,17,Worse than the U.S. National Benchmark
+330199,Government - Local,Yes,48,7,0.87,16,Better than the U.S. National Benchmark
+330202,Government - Local,Yes,39,8,0.87,20,Better than the U.S. National Benchmark
+330204,Government - Local,Yes,41.67,13,0.95,18,Better than the U.S. National Benchmark
+330208,Voluntary non-profit - Private,Yes,28,50,0.98,19,Better than the U.S. National Benchmark
+330221,Voluntary non-profit - Other,Yes,49,22,0.98,21,Better than the U.S. National Benchmark
+280023,Voluntary non-profit - Church,Yes,49,55,0.99,14,Better than the U.S. National Benchmark
+280032,Voluntary non-profit - Other,Yes,47,70,1.02,14,Better than the U.S. National Benchmark
+280040,Voluntary non-profit - Private,Yes,55,56,1.01,15,Better than the U.S. National Benchmark
+280065,Voluntary non-profit - Private,Yes,49.09,32,0.94,16,Worse than the U.S. National Benchmark
+280081,Voluntary non-profit - Private,Yes,89.09,56,1.05,17,Better than the U.S. National Benchmark
+290003,Proprietary,Yes,74.17,10,1.13,18,Worse than the U.S. National Benchmark
+290019,Voluntary non-profit - Private,Yes,56.67,28,0.98,15,Better than the U.S. National Benchmark
+290021,Proprietary,Yes,60.83,9,1.15,18,Worse than the U.S. National Benchmark
+290022,Proprietary,Yes,61.67,16,1.17,17,Worse than the U.S. National Benchmark
+290039,Proprietary,Yes,90,15,1.1,17,Worse than the U.S. National Benchmark
+290041,Proprietary,Yes,52.5,18,1.12,16,Worse than the U.S. National Benchmark
+290045,Proprietary,Yes,34.17,32,1.13,15,Worse than the U.S. National Benchmark
+290054,Voluntary non-profit - Private,Yes,40.91,12,1.1,17,Better than the U.S. National Benchmark
+300001,Voluntary non-profit - Private,Yes,69.17,64,1.01,16,Better than the U.S. National Benchmark
+300003,Voluntary non-profit - Other,Yes,35.83,37,1.03,15,Better than the U.S. National Benchmark
+300019,Voluntary non-profit - Private,Yes,66,48,0.99,15,Better than the U.S. National Benchmark
+300023,Voluntary non-profit - Private,Yes,54.55,84,1.01,16,Worse than the U.S. National Benchmark
+310003,Voluntary non-profit - Private,Yes,63,27,1.04,20,Worse than the U.S. National Benchmark
+310005,Voluntary non-profit - Private,Yes,64.55,40,1.03,15,Worse than the U.S. National Benchmark
+310006,Voluntary non-profit - Church,Yes,83.33,19,1.09,17,Worse than the U.S. National Benchmark
+310008,Voluntary non-profit - Other,Yes,57.27,23,1.09,16,Worse than the U.S. National Benchmark
+310012,Voluntary non-profit - Private,Yes,70,61,1.1,17,Worse than the U.S. National Benchmark
+310016,Voluntary non-profit - Church,Yes,41.82,27,1.13,18,Better than the U.S. National Benchmark
+310027,Voluntary non-profit - Private,Yes,54.55,18,1.16,18,Better than the U.S. National Benchmark
+310028,Voluntary non-profit - Private,Yes,56,16,1.01,16,Worse than the U.S. National Benchmark
+310040,Voluntary non-profit - Church,Yes,89,30,1.1,18,Better than the U.S. National Benchmark
+310044,Voluntary non-profit - Private,Yes,81,36,1.03,16,Worse than the U.S. National Benchmark
+310045,Voluntary non-profit - Private,Yes,62.5,25,1.07,17,Worse than the U.S. National Benchmark
+310047,Voluntary non-profit - Private,Yes,52,28,0.99,16,Worse than the U.S. National Benchmark
+310070,Voluntary non-profit - Church,Yes,85,42,1.04,17,Better than the U.S. National Benchmark
+310073,Voluntary non-profit - Private,Yes,55,34,1.08,15,Better than the U.S. National Benchmark
+310075,Voluntary non-profit - Private,Yes,50,36,1.12,15,Better than the U.S. National Benchmark
+310076,Voluntary non-profit - Other,Yes,60,17,1.08,15,Worse than the U.S. National Benchmark
+310081,Voluntary non-profit - Private,Yes,74.55,27,1.03,17,Worse than the U.S. National Benchmark
+310084,Voluntary non-profit - Private,Yes,96.36,32,1.13,18,Worse than the U.S. National Benchmark
+310092,Voluntary non-profit - Private,Yes,72,19,1.12,18,Worse than the U.S. National Benchmark
+310108,Voluntary non-profit - Private,Yes,65.45,34,1.18,18,Worse than the U.S. National Benchmark
+310119,Government - State,Yes,60,16,1.09,18,Better than the U.S. National Benchmark
+320001,Voluntary non-profit - Other,Yes,47.5,24,0.98,15,Better than the U.S. National Benchmark
+320005,Voluntary non-profit - Private,Yes,43.64,28,0.92,15,Worse than the U.S. National Benchmark
+320009,Voluntary non-profit - Private,Yes,40,12,1,14,Worse than the U.S. National Benchmark
+320021,Government - Hospital District or Authority,Yes,66.67,28,0.99,14,Worse than the U.S. National Benchmark
+330005,Voluntary non-profit - Private,Yes,34.17,17,0.96,16,Worse than the U.S. National Benchmark
+330006,Voluntary non-profit - Private,Yes,80,16,1,20,Better than the U.S. National Benchmark
+330009,Proprietary,Yes,62.73,43,0.91,18,Better than the U.S. National Benchmark
+330014,Voluntary non-profit - Private,Yes,73.64,24,1.02,19,Better than the U.S. National Benchmark
+330019,Voluntary non-profit - Private,Yes,87,27,1.04,19,Worse than the U.S. National Benchmark
+330023,Voluntary non-profit - Other,Yes,70,38,1,18,Worse than the U.S. National Benchmark
+330024,Voluntary non-profit - Private,Yes,45.83,31,0.97,17,Worse than the U.S. National Benchmark
+330027,Government - State,Yes,79,9,1,20,Better than the U.S. National Benchmark
+330028,Voluntary non-profit - Private,Yes,55,14,1.05,19,Better than the U.S. National Benchmark
+330044,Voluntary non-profit - Private,Yes,45.45,10,0.99,17,Worse than the U.S. National Benchmark
+330046,Voluntary non-profit - Private,Yes,64.17,26,0.99,19,Better than the U.S. National Benchmark
+330055,Voluntary non-profit - Other,Yes,50,37,1.01,20,Worse than the U.S. National Benchmark
+330059,Voluntary non-profit - Private,Yes,18.33,32,0.97,19,Worse than the U.S. National Benchmark
+330061,Voluntary non-profit - Other,Yes,71,38,1.06,18,Worse than the U.S. National Benchmark
+330067,Voluntary non-profit - Private,Yes,92,24,1.04,18,Better than the U.S. National Benchmark
+360123,Voluntary non-profit - Private,Yes,55,21,1,15,Better than the U.S. National Benchmark
+360133,Voluntary non-profit - Other,Yes,65.83,34,1,16,Better than the U.S. National Benchmark
+360134,Voluntary non-profit - Church,Yes,62.5,56,0.98,15,Better than the U.S. National Benchmark
+360137,Voluntary non-profit - Private,Yes,59.17,45,1,18,Worse than the U.S. National Benchmark
+360144,Voluntary non-profit - Other,Yes,74,38,1.04,17,Worse than the U.S. National Benchmark
+360174,Voluntary non-profit - Private,Yes,75,49,1.03,16,Better than the U.S. National Benchmark
+360180,Voluntary non-profit - Private,Yes,39.17,63,0.98,18,Worse than the U.S. National Benchmark
+360211,Voluntary non-profit - Other,Yes,55.83,37,1.15,16,Worse than the U.S. National Benchmark
+360230,Voluntary non-profit - Private,Yes,60.83,37,1.01,17,Worse than the U.S. National Benchmark
+360234,Voluntary non-profit - Private,Yes,60,38,1.01,16,Worse than the U.S. National Benchmark
+360348,Voluntary non-profit - Private,Yes,52,77,1.03,15,Better than the U.S. National Benchmark
+370001,Proprietary,Yes,51.67,12,0.98,16,Better than the U.S. National Benchmark
+370008,Government - Local,Yes,45,25,1,15,Better than the U.S. National Benchmark
+370013,Voluntary non-profit - Church,Yes,73,36,1.04,16,Worse than the U.S. National Benchmark
+370014,Proprietary,Yes,38,19,0.96,19,Worse than the U.S. National Benchmark
+370037,Voluntary non-profit - Private,Yes,77.5,57,0.96,15,Better than the U.S. National Benchmark
+330222,Voluntary non-profit - Private,Yes,45,55,0.91,15,Better than the U.S. National Benchmark
+330231,Government - Local,Yes,55,9,0.92,18,Better than the U.S. National Benchmark
+330233,Voluntary non-profit - Private,Yes,55.45,5,1,18,Better than the U.S. National Benchmark
+330234,Government - Hospital District or Authority,Yes,34.17,8,1.1,18,Better than the U.S. National Benchmark
+330236,Voluntary non-profit - Private,Yes,50,13,1.01,19,Better than the U.S. National Benchmark
+330240,Government - Local,Yes,51,5,0.95,19,Better than the U.S. National Benchmark
+330245,Voluntary non-profit - Private,Yes,50.83,15,0.98,15,Worse than the U.S. National Benchmark
+330259,Voluntary non-profit - Church,Yes,57,30,1.08,17,Worse than the U.S. National Benchmark
+330279,Voluntary non-profit - Private,Yes,65.83,19,0.99,14,Worse than the U.S. National Benchmark
+330286,Voluntary non-profit - Church,Yes,63.64,19,1.06,17,Worse than the U.S. National Benchmark
+330350,Government - State,Yes,60,18,0.97,20,Better than the U.S. National Benchmark
+330393,Government - State,Yes,46.67,27,0.98,18,Worse than the U.S. National Benchmark
+330396,Government - Local,Yes,44,9,0.93,18,Better than the U.S. National Benchmark
+330397,Voluntary non-profit - Private,Yes,22.22,7,1.01,18,Better than the U.S. National Benchmark
+330399,Voluntary non-profit - Private,Yes,70,14,0.91,18,Worse than the U.S. National Benchmark
+340002,Voluntary non-profit - Private,Yes,76.67,78,0.99,14,Better than the U.S. National Benchmark
+340008,Voluntary non-profit - Private,Yes,56,79,0.87,17,Better than the U.S. National Benchmark
+340037,Government - Hospital District or Authority,Yes,23.33,63,0.95,15,Better than the U.S. National Benchmark
+340040,Voluntary non-profit - Private,Yes,76.67,60,0.96,18,Better than the U.S. National Benchmark
+340047,Voluntary non-profit - Private,Yes,63.33,43,0.97,17,Worse than the U.S. National Benchmark
+340050,Voluntary non-profit - Private,Yes,39.17,52,0.92,17,Better than the U.S. National Benchmark
+340061,Government - State,Yes,80,76,0.96,18,Better than the U.S. National Benchmark
+340064,Government - Local,Yes,56,52,0.97,17,Better than the U.S. National Benchmark
+340071,Voluntary non-profit - Private,Yes,51,43,0.92,17,Worse than the U.S. National Benchmark
+340075,Proprietary,Yes,67,63,0.95,14,Better than the U.S. National Benchmark
+340090,Government - Hospital District or Authority,Yes,64,41,0.94,16,Better than the U.S. National Benchmark
+340097,Voluntary non-profit - Private,Yes,75,73,0.92,17,Better than the U.S. National Benchmark
+340113,Government - Hospital District or Authority,Yes,47.5,33,1,15,Better than the U.S. National Benchmark
+340116,Proprietary,Yes,45,59,0.98,15,Better than the U.S. National Benchmark
+340120,Government - Local,Yes,85,42,0.85,16,Better than the U.S. National Benchmark
+340131,Government - Hospital District or Authority,Yes,45.83,62,0.9,16,Better than the U.S. National Benchmark
+340133,Government - Local,Yes,58.89,46,0.88,17,Better than the U.S. National Benchmark
+340142,Proprietary,Yes,61,55,0.89,14,Better than the U.S. National Benchmark
+340144,Proprietary,Yes,88,16,0.93,17,Better than the U.S. National Benchmark
+340166,Government - Hospital District or Authority,Yes,39,71,1,15,Better than the U.S. National Benchmark
+340184,Government - Hospital District or Authority,Yes,45,57,0.92,14,Better than the U.S. National Benchmark
+350006,Voluntary non-profit - Private,Yes,42.5,11,0.98,16,Better than the U.S. National Benchmark
+350019,Government - Local,Yes,41.67,24,0.95,17,Better than the U.S. National Benchmark
+360001,Voluntary non-profit - Church,Yes,76.67,45,0.98,18,Worse than the U.S. National Benchmark
+360003,Voluntary non-profit - Private,Yes,50,20,0.99,18,Better than the U.S. National Benchmark
+360006,Voluntary non-profit - Private,Yes,82.5,35,1,17,Better than the U.S. National Benchmark
+360009,Voluntary non-profit - Other,Yes,65,21,1.01,15,Better than the U.S. National Benchmark
+360011,Voluntary non-profit - Private,Yes,90,38,0.96,17,Better than the U.S. National Benchmark
+360016,Voluntary non-profit - Private,Yes,39.17,22,0.97,17,Worse than the U.S. National Benchmark
+360020,Voluntary non-profit - Private,Yes,62.5,22,1.04,16,Better than the U.S. National Benchmark
+360025,Voluntary non-profit - Private,Yes,90,41,1.09,15,Better than the U.S. National Benchmark
+360026,Voluntary non-profit - Private,Yes,63,18,0.98,16,Better than the U.S. National Benchmark
+360036,Government - Local,Yes,45,51,0.94,14,Better than the U.S. National Benchmark
+360039,Voluntary non-profit - Private,Yes,67.5,29,0.96,17,Better than the U.S. National Benchmark
+360041,Voluntary non-profit - Private,Yes,67.5,25,1.11,16,Better than the U.S. National Benchmark
+360051,Voluntary non-profit - Private,Yes,72.5,44,1.03,16,Better than the U.S. National Benchmark
+360052,Voluntary non-profit - Church,Yes,74.17,40,1.06,16,Worse than the U.S. National Benchmark
+360059,Voluntary non-profit - Other,Yes,42.5,23,1.01,17,Better than the U.S. National Benchmark
+360064,Voluntary non-profit - Church,Yes,55,32,1.08,17,Better than the U.S. National Benchmark
+360074,Voluntary non-profit - Private,Yes,39,43,1.04,15,Better than the U.S. National Benchmark
+360075,Proprietary,Yes,61,60,1.1,17,Worse than the U.S. National Benchmark
+360076,Voluntary non-profit - Private,Yes,80,48,1.03,17,Better than the U.S. National Benchmark
+360079,Voluntary non-profit - Church,Yes,80.83,37,1.02,15,Better than the U.S. National Benchmark
+360085,Government - State,Yes,70.91,45,0.99,17,Better than the U.S. National Benchmark
+360087,Voluntary non-profit - Private,Yes,55,67,1.03,15,Better than the U.S. National Benchmark
+360091,Voluntary non-profit - Private,Yes,53,43,1.04,16,Worse than the U.S. National Benchmark
+360112,Voluntary non-profit - Church,Yes,65,40,1.03,17,Better than the U.S. National Benchmark
+390219,Voluntary non-profit - Other,Yes,56,57,1.08,16,Better than the U.S. National Benchmark
+390222,Voluntary non-profit - Private,Yes,71.82,42,0.98,16,Worse than the U.S. National Benchmark
+390226,Voluntary non-profit - Private,Yes,60,28,1.03,18,Better than the U.S. National Benchmark
+390231,Voluntary non-profit - Private,Yes,46.67,28,1.01,16,Better than the U.S. National Benchmark
+390266,Voluntary non-profit - Private,Yes,75,22,1.07,15,Better than the U.S. National Benchmark
+390268,Voluntary non-profit - Other,Yes,50,51,0.99,16,Worse than the U.S. National Benchmark
+390290,Proprietary,Yes,50,42,1.02,17,Worse than the U.S. National Benchmark
+410007,Voluntary non-profit - Private,Yes,55,30,1.01,17,Worse than the U.S. National Benchmark
+410009,Voluntary non-profit - Private,Yes,31,25,1.04,18,Worse than the U.S. National Benchmark
+410012,Voluntary non-profit - Private,Yes,57.27,57,1.03,18,Worse than the U.S. National Benchmark
+420002,Proprietary,Yes,46.67,43,1.06,16,Worse than the U.S. National Benchmark
+420004,Government - State,Yes,68.33,54,0.99,18,Better than the U.S. National Benchmark
+420007,Government - Local,Yes,65.83,55,0.96,14,Better than the U.S. National Benchmark
+420010,Proprietary,Yes,41,39,0.97,17,Better than the U.S. National Benchmark
+420018,Voluntary non-profit - Private,Yes,50.83,62,1.01,15,Better than the U.S. National Benchmark
+420033,Voluntary non-profit - Private,Yes,82,84,0.97,15,Better than the U.S. National Benchmark
+420038,Government - Hospital District or Authority,Yes,40,21,1.03,16,Worse than the U.S. National Benchmark
+420049,Voluntary non-profit - Private,Yes,67,46,0.94,15,Better than the U.S. National Benchmark
+420070,Voluntary non-profit - Private,Yes,38,55,0.96,17,Better than the U.S. National Benchmark
+370078,Government - Local,Yes,40,14,0.98,16,Better than the U.S. National Benchmark
+370097,Proprietary,Yes,35,51,0.98,16,Better than the U.S. National Benchmark
+370114,Voluntary non-profit - Church,Yes,54.17,26,0.98,16,Worse than the U.S. National Benchmark
+380004,Voluntary non-profit - Other,Yes,35.83,32,0.9,14,Better than the U.S. National Benchmark
+380007,Voluntary non-profit - Private,Yes,67.5,27,0.94,15,Better than the U.S. National Benchmark
+380009,Voluntary non-profit - Other,Yes,58.33,37,0.96,16,Worse than the U.S. National Benchmark
+380017,Voluntary non-profit - Private,Yes,69.17,37,0.96,16,Better than the U.S. National Benchmark
+380060,Voluntary non-profit - Church,Yes,48.33,42,0.86,15,Better than the U.S. National Benchmark
+380061,Voluntary non-profit - Church,Yes,63.33,37,0.92,15,Better than the U.S. National Benchmark
+380071,Voluntary non-profit - Private,Yes,73,49,0.87,15,Better than the U.S. National Benchmark
+380089,Voluntary non-profit - Private,Yes,43.64,52,0.89,16,Better than the U.S. National Benchmark
+380102,Voluntary non-profit - Private,Yes,38.33,36,0.9,15,Better than the U.S. National Benchmark
+390002,Voluntary non-profit - Private,Yes,79.09,36,1.06,17,Better than the U.S. National Benchmark
+390006,Voluntary non-profit - Private,Yes,65,46,1.04,16,Worse than the U.S. National Benchmark
+390013,Voluntary non-profit - Other,Yes,46,52,0.93,15,Better than the U.S. National Benchmark
+390016,Voluntary non-profit - Other,Yes,23,17,1.08,17,Worse than the U.S. National Benchmark
+390027,Voluntary non-profit - Private,Yes,78.33,31,1,18,Better than the U.S. National Benchmark
+390028,Voluntary non-profit - Other,Yes,79.17,27,1.08,17,Better than the U.S. National Benchmark
+390046,Voluntary non-profit - Private,Yes,68.33,13,1.04,16,Better than the U.S. National Benchmark
+390049,Voluntary non-profit - Private,Yes,80.83,33,1.01,16,Better than the U.S. National Benchmark
+390050,Voluntary non-profit - Other,Yes,35,22,1.05,16,Worse than the U.S. National Benchmark
+390065,Voluntary non-profit - Other,Yes,83,35,0.98,15,Better than the U.S. National Benchmark
+390067,Voluntary non-profit - Other,Yes,80,34,1.04,16,Better than the U.S. National Benchmark
+390068,Proprietary,Yes,68,36,0.99,16,Better than the U.S. National Benchmark
+390070,Proprietary,Yes,48.33,9,0.99,17,Better than the U.S. National Benchmark
+390072,Proprietary,Yes,62,28,1.01,16,Better than the U.S. National Benchmark
+390073,Voluntary non-profit - Private,Yes,43.33,27,1.11,15,Better than the U.S. National Benchmark
+390079,Voluntary non-profit - Other,Yes,39.17,25,0.9,18,Worse than the U.S. National Benchmark
+390086,Voluntary non-profit - Other,Yes,71.67,66,0.98,14,Better than the U.S. National Benchmark
+390091,Voluntary non-profit - Other,Yes,63,21,0.96,16,Better than the U.S. National Benchmark
+390096,Voluntary non-profit - Church,Yes,66.67,28,1.02,15,Worse than the U.S. National Benchmark
+390111,Voluntary non-profit - Private,Yes,86.67,29,1.03,17,Worse than the U.S. National Benchmark
+390116,Voluntary non-profit - Church,Yes,50,9,1.11,16,Better than the U.S. National Benchmark
+390137,Voluntary non-profit - Private,Yes,51.67,28,1.2,16,Better than the U.S. National Benchmark
+390150,Proprietary,Yes,48,17,1.02,15,Better than the U.S. National Benchmark
+390151,Voluntary non-profit - Other,Yes,58.18,23,0.92,16,Better than the U.S. National Benchmark
+390156,Voluntary non-profit - Other,Yes,70,23,1.09,18,Better than the U.S. National Benchmark
+390163,Voluntary non-profit - Private,Yes,64.55,35,0.98,15,Better than the U.S. National Benchmark
+390164,Voluntary non-profit - Private,Yes,78.33,26,1.01,17,Worse than the U.S. National Benchmark
+390180,Voluntary non-profit - Other,Yes,48.33,12,1.06,16,Worse than the U.S. National Benchmark
+390185,Voluntary non-profit - Other,Yes,77,10,1.06,17,Worse than the U.S. National Benchmark
+390197,Voluntary non-profit - Private,Yes,73,41,1.06,16,Better than the U.S. National Benchmark
+390198,Voluntary non-profit - Church,Yes,69,54,1.01,15,Better than the U.S. National Benchmark
+390201,Voluntary non-profit - Private,Yes,32.5,41,1.04,15,Better than the U.S. National Benchmark
+390203,Voluntary non-profit - Private,Yes,30.83,81,0.98,16,Worse than the U.S. National Benchmark
+450403,Proprietary,Yes,55.83,40,1.13,16,Better than the U.S. National Benchmark
+450518,Proprietary,Yes,30.83,34,1.14,16,Better than the U.S. National Benchmark
+450537,Government - Hospital District or Authority,Yes,89.17,26,1.2,16,Better than the U.S. National Benchmark
+450563,Voluntary non-profit - Private,Yes,55,52,1.06,14,Worse than the U.S. National Benchmark
+450639,Voluntary non-profit - Private,Yes,58.33,47,1.04,15,Better than the U.S. National Benchmark
+450643,Proprietary,Yes,49,44,1.03,16,Better than the U.S. National Benchmark
+450647,Proprietary,Yes,80,50,1.06,15,Worse than the U.S. National Benchmark
+450653,Proprietary,Yes,31,23,0.94,16,Better than the U.S. National Benchmark
+450662,Proprietary,Yes,85.83,18,1,15,Better than the U.S. National Benchmark
+450670,Government - Hospital District or Authority,Yes,29.17,34,1.1,15,Better than the U.S. National Benchmark
+450672,Proprietary,Yes,72.5,30,1.1,14,Better than the U.S. National Benchmark
+450686,Government - Hospital District or Authority,Yes,52.5,66,1.04,16,Worse than the U.S. National Benchmark
+450697,Voluntary non-profit - Private,Yes,56.67,25,1.04,15,Better than the U.S. National Benchmark
+450709,Voluntary non-profit - Private,Yes,79,21,1.1,16,Better than the U.S. National Benchmark
+450716,Proprietary,Yes,50,49,1.14,16,Worse than the U.S. National Benchmark
+420071,Voluntary non-profit - Private,Yes,51.67,65,1.01,15,Better than the U.S. National Benchmark
+420073,Government - Hospital District or Authority,No,57.5,57,1,14,Better than the U.S. National Benchmark
+420079,Proprietary,Yes,79.17,22,1.02,16,Better than the U.S. National Benchmark
+420085,Proprietary,Yes,78.33,15,0.98,17,Better than the U.S. National Benchmark
+420091,Voluntary non-profit - Other,Yes,72.73,37,0.98,18,Better than the U.S. National Benchmark
+420105,Voluntary non-profit - Private,Yes,12,42,0.94,16,Better than the U.S. National Benchmark
+430016,Voluntary non-profit - Private,Yes,65.45,41,0.97,14,Better than the U.S. National Benchmark
+430077,Voluntary non-profit - Private,Yes,36.67,45,0.98,14,Better than the U.S. National Benchmark
+440003,Proprietary,Yes,82.73,32,1.07,19,Better than the U.S. National Benchmark
+440006,Voluntary non-profit - Private,Yes,60,27,1.04,16,Worse than the U.S. National Benchmark
+440012,Government - Hospital District or Authority,Yes,78.33,31,1.04,17,Better than the U.S. National Benchmark
+440015,Voluntary non-profit - Private,Yes,45,58,0.96,16,Better than the U.S. National Benchmark
+440017,Voluntary non-profit - Private,Yes,60,35,1.05,18,Better than the U.S. National Benchmark
+440025,Voluntary non-profit - Private,Yes,56,47,0.91,17,Better than the U.S. National Benchmark
+440035,Government - Hospital District or Authority,Yes,59.17,21,1.02,18,Better than the U.S. National Benchmark
+440039,Voluntary non-profit - Private,Yes,60.83,57,0.98,17,Better than the U.S. National Benchmark
+440049,Voluntary non-profit - Church,Yes,72.5,57,1.01,16,Better than the U.S. National Benchmark
+440054,Government - Hospital District or Authority,Yes,11.11,42,0.97,15,Worse than the U.S. National Benchmark
+440058,Proprietary,Yes,43,22,1,18,Better than the U.S. National Benchmark
+440072,Proprietary,Yes,77,42,1.04,18,Better than the U.S. National Benchmark
+440081,Voluntary non-profit - Other,Yes,52,45,0.93,15,Better than the U.S. National Benchmark
+440084,Voluntary non-profit - Private,Yes,33,59,0.96,17,Better than the U.S. National Benchmark
+440120,Proprietary,Yes,38.33,23,0.98,14,Better than the U.S. National Benchmark
+440133,Voluntary non-profit - Private,Yes,60,58,0.98,15,Better than the U.S. National Benchmark
+440156,Proprietary,Yes,70,48,1.01,16,Better than the U.S. National Benchmark
+440159,Proprietary,Yes,52.22,31,1.22,17,Better than the U.S. National Benchmark
+440161,Proprietary,Yes,53.33,52,1.03,17,Better than the U.S. National Benchmark
+440173,Voluntary non-profit - Private,Yes,50,55,0.96,16,Better than the U.S. National Benchmark
+440182,Proprietary,Yes,83.75,54,1.12,17,Worse than the U.S. National Benchmark
+440183,Proprietary,Yes,90,25,1.06,17,Better than the U.S. National Benchmark
+440193,Voluntary non-profit - Private,Yes,65,15,1.05,17,Better than the U.S. National Benchmark
+440228,Proprietary,Yes,49,25,1.05,15,Better than the U.S. National Benchmark
+450011,Voluntary non-profit - Church,Yes,65,65,1.01,17,Better than the U.S. National Benchmark
+450015,Government - Hospital District or Authority,Yes,41.82,20,0.93,16,Better than the U.S. National Benchmark
+450018,Government - State,Yes,55.83,46,1.01,17,Better than the U.S. National Benchmark
+450028,Proprietary,Yes,53.33,51,1.07,15,Better than the U.S. National Benchmark
+450029,Voluntary non-profit - Church,Yes,95.83,22,0.98,16,Better than the U.S. National Benchmark
+450033,Proprietary,Yes,60,40,1.01,15,Better than the U.S. National Benchmark
+450034,Voluntary non-profit - Church,Yes,65.83,43,1.05,16,Better than the U.S. National Benchmark
+450035,Government - Federal,Yes,72.73,39,1.03,16,Better than the U.S. National Benchmark
+450037,Voluntary non-profit - Private,Yes,58.33,54,1,17,Better than the U.S. National Benchmark
+450039,Government - Hospital District or Authority,Yes,59.17,29,1.04,16,Better than the U.S. National Benchmark
+450042,Voluntary non-profit - Private,Yes,42.5,41,0.99,16,Better than the U.S. National Benchmark
+450044,Government - State,Yes,44.55,33,1.01,17,Worse than the U.S. National Benchmark
+450051,Voluntary non-profit - Other,Yes,80.83,42,1,16,Better than the U.S. National Benchmark
+450056,Voluntary non-profit - Private,Yes,66.67,31,1.05,16,Better than the U.S. National Benchmark
+450068,Voluntary non-profit - Private,Yes,48.33,43,1.03,17,Better than the U.S. National Benchmark
+450092,Proprietary,Yes,63,35,1.13,17,Better than the U.S. National Benchmark
+450097,Proprietary,Yes,67.5,21,1.13,15,Worse than the U.S. National Benchmark
+450119,Proprietary,Yes,64.17,38,1.03,16,Better than the U.S. National Benchmark
+450130,Proprietary,Yes,72.22,49,1.01,16,Better than the U.S. National Benchmark
+450135,Voluntary non-profit - Church,Yes,63.33,47,1.07,15,Better than the U.S. National Benchmark
+450137,Voluntary non-profit - Private,Yes,56.67,43,1.05,14,Better than the U.S. National Benchmark
+450147,Proprietary,Yes,82.5,52,1.03,16,Better than the U.S. National Benchmark
+450163,Voluntary non-profit - Private,Yes,25.56,43,0.98,16,Better than the U.S. National Benchmark
+450184,Voluntary non-profit - Private,Yes,46.67,46,1.12,14,Better than the U.S. National Benchmark
+450211,Voluntary non-profit - Private,Yes,35,36,1.06,15,Better than the U.S. National Benchmark
+450229,Voluntary non-profit - Private,Yes,42.5,39,0.99,15,Better than the U.S. National Benchmark
+450236,Government - Hospital District or Authority,Yes,31,49,1.04,15,Better than the U.S. National Benchmark
+450271,Government - Hospital District or Authority,Yes,22.5,60,1.05,16,Better than the U.S. National Benchmark
+450280,Government - Federal,Yes,59.17,32,1.07,15,Worse than the U.S. National Benchmark
+450289,Government - Local,Yes,40,38,0.98,16,Better than the U.S. National Benchmark
+450324,Proprietary,Yes,90,59,1.06,16,Better than the U.S. National Benchmark
+450340,Proprietary,Yes,69.17,48,1.02,16,Better than the U.S. National Benchmark
+450346,Voluntary non-profit - Private,Yes,55.83,52,1.01,17,Better than the U.S. National Benchmark
+510001,Voluntary non-profit - Private,Yes,67.5,41,1,17,Worse than the U.S. National Benchmark
+510002,Proprietary,Yes,40,23,0.9,17,Better than the U.S. National Benchmark
+510008,Voluntary non-profit - Other,Yes,73.64,19,0.98,16,Better than the U.S. National Benchmark
+510046,Government - Local,Yes,65,63,0.99,17,Better than the U.S. National Benchmark
+510058,Voluntary non-profit - Private,Yes,42.5,15,1.01,18,Better than the U.S. National Benchmark
+510070,Proprietary,Yes,58.18,10,0.96,18,Worse than the U.S. National Benchmark
+510082,Government - Local,Yes,44.44,36,0.91,16,Worse than the U.S. National Benchmark
+520008,Voluntary non-profit - Private,Yes,66.67,69,1,15,Better than the U.S. National Benchmark
+520030,Proprietary,Yes,50,55,0.95,15,Worse than the U.S. National Benchmark
+520035,Voluntary non-profit - Private,Yes,77,52,0.92,15,Better than the U.S. National Benchmark
+520037,Voluntary non-profit - Church,Yes,70,24,0.97,16,Better than the U.S. National Benchmark
+520049,Voluntary non-profit - Private,Yes,30.83,64,0.97,15,Better than the U.S. National Benchmark
+520083,Voluntary non-profit - Other,Yes,55,69,0.95,15,Better than the U.S. National Benchmark
+520089,Voluntary non-profit - Private,Yes,44.17,56,0.89,14,Better than the U.S. National Benchmark
+450801,Voluntary non-profit - Private,Yes,48.33,50,1.03,16,Better than the U.S. National Benchmark
+450820,Voluntary non-profit - Church,Yes,76.67,53,1.1,14,Worse than the U.S. National Benchmark
+450869,Proprietary,Yes,70,30,1.02,16,Better than the U.S. National Benchmark
+450890,Voluntary non-profit - Other,Yes,79,50,1.09,16,Worse than the U.S. National Benchmark
+460001,Voluntary non-profit - Private,Yes,67.5,52,1.03,14,Better than the U.S. National Benchmark
+460004,Voluntary non-profit - Private,Yes,69.17,49,0.95,13,Better than the U.S. National Benchmark
+460005,Proprietary,Yes,64.55,27,1.05,15,Better than the U.S. National Benchmark
+470003,Voluntary non-profit - Other,Yes,54.17,31,1,16,Better than the U.S. National Benchmark
+470005,Voluntary non-profit - Other,Yes,43,51,0.96,16,Better than the U.S. National Benchmark
+490004,Voluntary non-profit - Private,Yes,70.83,44,0.92,17,Worse than the U.S. National Benchmark
+490005,Voluntary non-profit - Private,Yes,38.33,51,0.99,17,Worse than the U.S. National Benchmark
+490007,Voluntary non-profit - Other,Yes,65.83,50,0.98,16,Better than the U.S. National Benchmark
+490009,Government - State,Yes,53.33,44,1,18,Worse than the U.S. National Benchmark
+490018,Voluntary non-profit - Private,Yes,61.82,23,0.91,14,Worse than the U.S. National Benchmark
+490021,Voluntary non-profit - Private,Yes,72.5,61,0.95,16,Better than the U.S. National Benchmark
+490022,Voluntary non-profit - Private,Yes,74.17,31,1.01,17,Worse than the U.S. National Benchmark
+490032,Government - Hospital District or Authority,Yes,60.83,40,0.97,18,Better than the U.S. National Benchmark
+490040,Voluntary non-profit - Private,Yes,57.5,17,0.99,16,Worse than the U.S. National Benchmark
+490045,Voluntary non-profit - Private,Yes,82.73,23,0.99,16,Better than the U.S. National Benchmark
+490050,Voluntary non-profit - Private,Yes,81.67,69,0.96,16,Worse than the U.S. National Benchmark
+490057,Voluntary non-profit - Other,Yes,65,57,0.97,16,Worse than the U.S. National Benchmark
+490063,Voluntary non-profit - Other,Yes,25.83,16,1,16,Worse than the U.S. National Benchmark
+490075,Proprietary,Yes,64.55,12,1,19,Worse than the U.S. National Benchmark
+490077,Voluntary non-profit - Private,Yes,36.36,63,0.94,15,Worse than the U.S. National Benchmark
+490079,Proprietary,Yes,47.27,15,1.01,17,Worse than the U.S. National Benchmark
+490114,Voluntary non-profit - Other,Yes,14,73,0.86,17,Better than the U.S. National Benchmark
+490119,Voluntary non-profit - Other,Yes,69,70,0.97,16,Better than the U.S. National Benchmark
+500001,Voluntary non-profit - Other,Yes,47.5,35,0.92,13,Worse than the U.S. National Benchmark
+500002,Voluntary non-profit - Private,Yes,58,49,0.9,14,Better than the U.S. National Benchmark
+500003,Government - Hospital District or Authority,Yes,83.64,21,0.92,16,Better than the U.S. National Benchmark
+500007,Government - Hospital District or Authority,Yes,58,65,0.87,16,Better than the U.S. National Benchmark
+500008,Government - State,Yes,40.83,57,0.98,16,Worse than the U.S. National Benchmark
+500024,Voluntary non-profit - Church,Yes,33.33,39,0.92,15,Better than the U.S. National Benchmark
+500025,Voluntary non-profit - Church,Yes,65,28,0.98,15,Better than the U.S. National Benchmark
+500030,Voluntary non-profit - Other,Yes,41.67,36,0.9,14,Better than the U.S. National Benchmark
+500039,Voluntary non-profit - Private,Yes,70.83,34,0.98,15,Better than the U.S. National Benchmark
+500058,Voluntary non-profit - Private,Yes,56.67,33,0.99,15,Worse than the U.S. National Benchmark
+500129,Voluntary non-profit - Private,Yes,46.67,21,0.95,15,Better than the U.S. National Benchmark
+500141,Voluntary non-profit - Church,Yes,36.36,15,1.01,16,Worse than the U.S. National Benchmark
+500151,Voluntary non-profit - Church,Yes,50,34,0.94,16,Worse than the U.S. National Benchmark
+520098,Government - Hospital District or Authority,Yes,56.67,44,0.96,15,Worse than the U.S. National Benchmark
+520100,Voluntary non-profit - Private,Yes,52.73,48,0.97,15,Better than the U.S. National Benchmark
+520136,Voluntary non-profit - Church,Yes,63.33,51,0.94,15,Better than the U.S. National Benchmark
+520139,Voluntary non-profit - Private,Yes,51,30,1,15,Better than the U.S. National Benchmark
+520177,Voluntary non-profit - Private,Yes,78.33,62,0.97,16,Worse than the U.S. National Benchmark
+520198,Voluntary non-profit - Private,Yes,77.27,71,0.94,15,Better than the U.S. National Benchmark
+670024,Physician,Yes,61.67,32,1.1,15,Better than the U.S. National Benchmark
+670068,Proprietary,Yes,35,61,1.09,16,Better than the U.S. National Benchmark
+670077,Voluntary non-profit - Private,Yes,58.33,56,1.09,17,Better than the U.S. National Benchmark
